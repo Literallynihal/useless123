@@ -4,35 +4,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Code Crusaders]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Shifana T.K] - [TKM COLLEGE OF ENGINEERING]
+- Member 2: [Shibin Mahzoom] - [TKM COLLEGE OF ENGINEERING]
+- Member 3: [Muhammed Nihal Noushad] - [TKM COLLEGE OF ENGINEERING]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Want to try ur luck on mallu soulmate? Check out our premium collection of pickuplines to try on or jst read and laugh]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Lack of pickuplines intellectual heads cant think of]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Trying to gather different cringe level pickuplines from different sources and providing in our website]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Html,Css,Javascript]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Google Fonts,Local storage,Css Animations,Browser developer tools]
 
 ### Implementation
 For Software:
@@ -46,17 +41,45 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![![Pickup Line Generator - Screenshot1](https://github.com/user-attachments/assets/ef393aef-bfd1-4348-88b7-bf4f74cddd02)
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![Pickup Line Generator - Screenshot2](https://github.com/user-attachments/assets/a23f4c13-a187-4841-b2d0-05b6eb4c50f2)
+](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![![Pickup Line Generator - Screenshot3](https://github.com/user-attachments/assets/c1571e5b-86b6-4f8b-9d15-1c236a09ab89)
+](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![User Accesses the Webpage:
+The user navigates to the webpage.
+
+A disclaimer modal pops up with a "Cringe Alert 🚨," warning users that the content is meant to be cringeworthy and fun, encouraging them to "activate their cringe mode."
+Disclaimer Acknowledgment:
+Users click "I Understand" on the disclaimer to acknowledge the humor aspect.
+Once accepted, this information is stored in the browser’s localStorage, preventing the modal from showing up again on subsequent visits.
+
+Generating Pickup Lines:
+After accepting the disclaimer, the user can interact with the main feature.
+A "Get Pickup Line" button is displayed, inviting the user to click for a pickup line.
+
+Randomized Content Delivery:
+
+=>On the first click:
+A "Luck Message" image appears, setting a humorous tone with some random funny or ironic message.
+The background color theme changes.
+
+=>On subsequent clicks:
+A random Malayalam pickup line from the predefined list is displayed.
+Each click also changes the background color from a predefined set of themes.
+
+Responsive UI and Animation:
+
+The UI leverages CSS for responsive layouts, animations, and playful emoji effects to enhance engagement.
+Animated emojis float around the screen, adding to the quirky aesthetic of the project.](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -75,7 +98,8 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![![Pickup Line Generator - Final](https://github.com/user-attachments/assets/72cc648a-c08c-4680-bd8b-fde8f39acefe)
+](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
